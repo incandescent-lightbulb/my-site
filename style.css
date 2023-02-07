@@ -1,0 +1,13 @@
+.h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200px;
+    text-align: center;
+    color: #ea4758;
+}
+.div {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 65px;
+    text-align: left;
+    background-color: #ea4758;
+    color: #4184df;
+}
