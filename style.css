@@ -1,13 +1,28 @@
 .h1 {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 200px;
+    font-size: 100px;
     text-align: center;
     color: #ea4758;
 }
-.div {
+.h2 {
+    text-align:left;
+    font-size: 200px;
+}
+.h3 {
+    font-size: 50px;
+}
+.main {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 65px;
+    font-size: 30px;
     text-align: left;
     background-color: #ea4758;
-    color: #4184df;
+    color: #95bdf2;
+    
+}
+.background {
+    background-image: url("../my-site/images/heart.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+
 }
